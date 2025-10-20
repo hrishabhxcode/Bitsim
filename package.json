@@ -6,8 +6,8 @@
   "engines": { "node": "20.x" },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "vercel-build": "vite build",
+    "build": "npx vite build",
+    "vercel-build": "npx vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
